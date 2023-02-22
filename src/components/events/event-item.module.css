@@ -59,11 +59,6 @@
   .actions a {
     display: block;
     text-decoration: none;
-    color: red;
-  }
-
-  .actions a:hover {
-    color: black;
   }
   
   .actions a span {
